@@ -8,6 +8,7 @@ Hier findet man die komplette [Dokumentation](https://htlha-my.sharepoint.com/pe
 ## Fernwärme:
 In der Diplomarbeit "Integration eines Data Analytics Programmes" gibt es eine Anleitung wie das Daten Problem der Fernwärme löst:
 ![Screenshot 2024-02-23 114553](https://github.com/DiplomaThesis2025/Dokumentation-Fernwaerme/assets/88196554/a2d3a018-64a9-4c47-8a7f-86e26edba851)
+<br>
 Es könnten aber nach diesem Fernwärmedaten Fix probleme mit dem Stromdaten enstehen diese würde man dan so lösen:
 ![image](https://github.com/DiplomaThesis2025/Dokumentation-Fernwaerme/assets/88196554/cf479962-a688-4ebd-b3cb-2bc50c16f565)
 ![image](https://github.com/DiplomaThesis2025/Dokumentation-Fernwaerme/assets/88196554/1fc84f58-ddb0-418d-9e4b-50d73e990a14)
