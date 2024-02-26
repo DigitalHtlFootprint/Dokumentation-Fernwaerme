@@ -1,4 +1,4 @@
-<h align="center">Dokumentation + Fernwärme</h>
+<h3 align="center">Dokumentation + Fernwärme</h3>
 
 
 <br>
