@@ -5,6 +5,7 @@ Hier findet man die komplette [Dokumentation](https://htlha-my.sharepoint.com/pe
 
 <h3 align="left">Fernwärme (Fixed): </h3>
 Da wir gar keine daten in Sigmatec bekommen konnten mussten wir zuerst nach einem anderen Fehler suchen den fanden wir im Server Raum dort gab es ein loseskabel am .... nachdem wir dieses wieder feste gemacht haben konnten wir mit der unterbei angeführten anleitung die Fernwärme daten wieder zum Laufen bringen
+
 In der Diplomarbeit "Integration eines Data Analytics Programmes" gibt es eine Anleitung wie das Daten Problem der Fernwärme löst:
 ![Screenshot 2024-02-23 114553](https://github.com/DiplomaThesis2025/Dokumentation-Fernwaerme/assets/88196554/a2d3a018-64a9-4c47-8a7f-86e26edba851)
 <br>
