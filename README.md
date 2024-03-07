@@ -1,7 +1,4 @@
-<h1 align="center">Dokumentation + Fernwärme</h1>
-<h3 align="left">Dokumentation: </h3>
-
-Hier findet man die komplette [Dokumentation](https://htlha-my.sharepoint.com/personal/thomas_bamberger_student_htl-hallein_at/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas%5Fbamberger%5Fstudent%5Fhtl%2Dhallein%5Fat%2FDocuments%2FDimplomarbeit&view=0).
+<h1 align="center">Dokumentation der Fernwärme</h1>
 
 <h3 align="left">Fernwärme (Fixed): </h3>
 Da wir gar keine daten in Sigmatec bekommen konnten mussten wir zuerst nach einem anderen Fehler suchen den fanden wir im Server Raum dort gab es ein loseskabel am .... nachdem wir dieses wieder feste gemacht haben konnten wir mit der unterbei angeführten anleitung die Fernwärme daten wieder zum Laufen bringen
